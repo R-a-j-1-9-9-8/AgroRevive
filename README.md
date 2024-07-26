@@ -7,6 +7,6 @@ The Regenerative Agriculture App is designed to support farmers in adopting and 
 To install the necessary dependencies, run the following command:
 
 ```bash
-pip install -r requirements.txt
+pip install -r requirements.txt```
 
 ## Running the App
