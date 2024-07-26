@@ -11,7 +11,7 @@ if "messages" not in st.session_state:
 
 
 
-api_key = 'AIzaSyDNKtbzCAuDTUC6HIrbVDOH2fDnEphpDME'
+api_key = 'YOUR-API-KEY'
 genai.configure(api_key=api_key)
 
 
