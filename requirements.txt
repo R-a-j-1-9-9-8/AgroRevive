@@ -1,9 +1,7 @@
 streamlit
 google-generativeai
 pandas
-seaborn
-matplotlib
-traceback
-functools
-time
-logging
+pickle
+Sklearn
+streamlit_card
+joblib
